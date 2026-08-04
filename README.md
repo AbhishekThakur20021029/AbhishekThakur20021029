@@ -96,23 +96,6 @@ Interactive Sales Analytics Dashboard built using **Python, SQL, Excel and Power
 
 ---
 
-## 📦 Operations Analytics Dashboard
-
-**Coming Soon**
-
----
-
-## 📱 Product Analytics Dashboard
-
-**Coming Soon**
-
----
-
-# 🎯 Career Objective
-
-I am continuously improving my skills in Data Analytics and Business Intelligence by building real-world projects using Power BI, SQL and Python.
-
-My goal is to develop scalable analytics solutions that help businesses monitor performance, automate reporting and make data-driven decisions.
 
 ---
 
