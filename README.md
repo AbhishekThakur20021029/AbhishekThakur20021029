@@ -1,73 +1,77 @@
 <div align="center">
 
-# 👋 Hi, I'm Abhishek Thakur
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A66C2,50:F2C811,100:16A34A&text=Abhishek%20Thakur&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python&descAlignY=60" width="100%" />
 
-### Data Analyst | Power BI | SQL | Python | Business Intelligence
+👋 Hi, I'm Abhishek Thakur
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Oracle;Always+Learning+New+Things" />
+Turning raw data into business decisions.
+
+<p>
+<a href="https://www.linkedin.com/in/abhishek-thakurofficial">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abhishekthakur20021029@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
----
+🚀 About Me
 
-# 💼 About Me
+📊 Data Analyst
 
-I enjoy solving business problems using data.
+📈 Building Power BI Dashboards
 
-Currently working on:
+🐍 Python for Data Analysis
 
-- 📊 Power BI Dashboards
-- 🐍 Python Data Analysis
-- 🗄 SQL
-- 📈 Business Analytics
-- ⚙ Apache Airflow
+🗄 SQL & Database Analytics
 
----
+⚙ Learning Data Engineering with Apache Airflow
 
-# 🛠 Tech Stack
+🧰 Tech Stack
 
-### Programming
+<table>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="60"><br>PostgreSQL</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="60"><br>Oracle</td>
+<td align="center"><img src="https://cdn.simpleicons.org/powerbi/F2C811" width="60"><br>Power BI</td>
+</tr>
+<tr>
+<td align="center"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="60"><br>Advanced Excel</td>
+<td align="center"><img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="60"><br>Airflow</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"><br>Git</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="60"><br>GitHub</td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+📌 Featured Projects
 
-### Databases
+💊 Pharmaceutical Sales Analytics Dashboard
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+📦 Operations Analytics Dashboard (Coming Soon)
 
-### Analytics
+📱 Product Analytics Dashboard (Coming Soon)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+📊 GitHub Stats
 
-### Data Engineering
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekThakur20021029&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekThakur20021029&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AbhishekThakur20021029&theme=github-dark-blue&hide_border=true"/>
+</p>
 
----
+<div align="center">
 
-# 🚀 Featured Projects
+📫 Connect With Me
 
-| Project | Description |
-|---------|-------------|
-| 💊 Pharmaceutical Sales Analytics | Power BI Dashboard for Sales Analysis |
-| 📦 Operations Analytics | Operations Dashboard |
-| 📱 Product Analytics | Product Performance Dashboard |
+📧 abhishekthakur20021029@gmail.com
 
----
+🔗 www.linkedin.com/in/abhishek-thakurofficial
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AbhishekThakur20021029&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbhishekThakur20021029&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekThakur20021029&layout=compact&theme=github_dark)
-
----
-
-# 📫 Connect
-
-- LinkedIn
-- Email
+</div>
