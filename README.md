@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A66C2,50:F2C811,100:16A34A&text=Abhishek%20Thakur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Analyst%20•%20Power%20BI%20•%20SQL%20•%20Python&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A66C2,50:F2C811,100:16A34A&text=Abhishek%20Thakur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Analyst%20•%20Power%20BI%20•%20SQL%20•%20Python&descAlignY=60"/>
 
 # 👋 Hi, I'm Abhishek Thakur
 
-### Turning Data into Business Decisions
+### Data Analyst | Power BI | SQL | Python
 
-<p>
+Turning raw data into meaningful business insights.
+
+<br>
 
 <a href="https://www.linkedin.com/in/abhishek-thakurofficial">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:abhishekthakur20021029@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</p>
 
 </div>
 
@@ -24,25 +24,18 @@
 
 # 👨‍💻 About Me
 
-I'm a Data Analyst passionate about transforming raw business data into meaningful insights.
+I enjoy solving business problems with data and building dashboards that help organizations make faster and better decisions.
 
-### I work with:
+### What I Do
 
-✅ Analyze large datasets using SQL, Excel and Python
-
-✅ Build interactive Power BI dashboards for business reporting
-
-✅ Create live dashboards connected directly to databases
-
-✅ Connect Power BI with Oracle, PostgreSQL and Microsoft Fabric OneLake
-
-✅ Automate data refresh and reporting workflows
-
-✅ Schedule data pipelines using Apache Airflow
-
-✅ Clean, transform and validate business data
-
-✅ Create KPI reports for Sales, Operations and Business Performance
+- 📊 Analyze business data using SQL, Excel and Python
+- 📈 Build interactive Power BI dashboards
+- 🔄 Create live dashboards connected directly to databases
+- 🗄 Connect Power BI with Oracle, PostgreSQL and Microsoft Fabric OneLake
+- ⚡ Schedule automated reporting using Apache Airflow
+- 🧹 Clean, transform and validate raw business data
+- 📉 Track KPIs, sales performance, operations and business metrics
+- 📁 Work with databases, Excel files and Python for end-to-end analytics
 
 ---
 
@@ -58,21 +51,27 @@ I'm a Data Analyst passionate about transforming raw business data into meaningf
 
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-<br><br>
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
@@ -80,52 +79,54 @@ I'm a Data Analyst passionate about transforming raw business data into meaningf
 
 # 📂 Featured Projects
 
-### 💊 Pharmaceutical Sales Analytics Dashboard
+## 💊 Pharmaceutical Sales Analytics Dashboard
 
-Interactive Power BI dashboard for tracking sales, profit, customer performance, product performance, regional sales and KPIs.
+Interactive Sales Analytics Dashboard built using **Python, SQL, Excel and Power BI**.
 
-**Tech Used**
+### Key Features
 
-- Python
-- SQL
-- Power BI
-- Excel
-
----
-
-### 📦 Operations Analytics Dashboard
-
-Coming Soon
+- Sales Performance Analysis
+- Profit Analysis
+- Product Performance
+- Customer Insights
+- Regional Sales Analysis
+- Interactive KPI Dashboard
+- Live Filters
+- Business Reporting
 
 ---
 
-### 📱 Product Analytics Dashboard
+## 📦 Operations Analytics Dashboard
 
-Coming Soon
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbhishekThakur20021029&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekThakur20021029&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+**Coming Soon**
 
 ---
 
-# 📫 Connect With Me
+## 📱 Product Analytics Dashboard
+
+**Coming Soon**
+
+---
+
+# 🎯 Career Objective
+
+I am continuously improving my skills in Data Analytics and Business Intelligence by building real-world projects using Power BI, SQL and Python.
+
+My goal is to develop scalable analytics solutions that help businesses monitor performance, automate reporting and make data-driven decisions.
+
+---
+
+# 📫 Contact
 
 📧 **Email**
 
-**abhishekthakur20021029@gmail.com**
+abhishekthakur20021029@gmail.com
+
+<br>
 
 🔗 **LinkedIn**
 
-**https://www.linkedin.com/in/abhishek-thakurofficial**
+https://www.linkedin.com/in/abhishek-thakurofficial
 
 ---
 
@@ -133,6 +134,6 @@ Coming Soon
 
 ### ⭐ Thanks for visiting my profile!
 
-Building data-driven solutions with Analytics, Python and Power BI.
+*"Without data, you're just another person with an opinion."*
 
 </div>
