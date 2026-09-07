@@ -12,6 +12,10 @@
   <a href="mailto:abhishekthakur20021029@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-F1F0EB?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
+  &nbsp;
+  <a href="https://abhishekthakur20021029.github.io">
+    <img src="https://img.shields.io/badge/View%20Portfolio-F1F0EB?style=for-the-badge&logo=safari&logoColor=5B8FD9"/>
+  </a>
 </div>
 
 <br>
