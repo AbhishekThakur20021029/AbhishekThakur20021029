@@ -1,89 +1,65 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0A66C2,50:F2C811,100:16A34A&text=Abhishek%20Thakur&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Data%20Analyst%20•%20Power%20BI%20•%20SQL%20•%20Python&descAlignY=60"/>
-
-# 👋 Hi, I'm Abhishek Thakur
-
-### Data Analyst | Power BI | SQL | Python
-
-Turning raw data into meaningful business insights.
+  <img src="header.svg" width="100%" alt="Abhishek Thakur — Data Analyst · Power BI · SQL · Python"/>
+</div>
 
 <br>
 
-<a href="https://www.linkedin.com/in/abhishek-thakurofficial">
-<img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abhishekthakur20021029@gmail.com">
-<img src="https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhishek-thakurofficial">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-F1F0EB?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhishekthakur20021029@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-F1F0EB?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
 </div>
 
----
+<br>
 
-# 👨‍💻 About Me
+## About Me
 
 I enjoy solving business problems with data and building dashboards that help organizations make faster and better decisions.
 
-### What I Do
+**What I do**
 
-- 📊 Analyze business data using SQL, Excel and Python
-- 📈 Build interactive Power BI dashboards
-- 🔄 Create live dashboards connected directly to databases
-- 🗄 Connect Power BI with Oracle, PostgreSQL and Microsoft Fabric OneLake
-- ⚡ Schedule automated reporting using Apache Airflow
-- 🧹 Clean, transform and validate raw business data
-- 📉 Track KPIs, sales performance, operations and business metrics
-- 📁 Work with databases, Excel files and Python for end-to-end analytics
+- Analyze business data using SQL, Excel and Python
+- Build interactive Power BI dashboards
+- Create live dashboards connected directly to databases
+- Connect Power BI with Oracle, PostgreSQL and Microsoft Fabric OneLake
+- Schedule automated reporting using Apache Airflow
+- Clean, transform and validate raw business data
+- Track KPIs, sales performance, operations and business metrics
+- Work with databases, Excel files and Python for end-to-end analytics
 
----
+<br>
 
-# 🚀 Skills
+## Skills
 
-<p align="center">
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-F1F0EB?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/SQL-F1F0EB?style=for-the-badge&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F1F0EB?style=for-the-badge&logo=powerbi&logoColor=F2C811"/>
+  <img src="https://img.shields.io/badge/Oracle-F1F0EB?style=for-the-badge&logo=oracle&logoColor=F80000"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/PostgreSQL-F1F0EB?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/Advanced%20Excel-F1F0EB?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-F1F0EB?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/>
+  <img src="https://img.shields.io/badge/Git-F1F0EB?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub-F1F0EB?style=for-the-badge&logo=github&logoColor=181717"/>
+  <img src="https://img.shields.io/badge/Pandas-F1F0EB?style=for-the-badge&logo=pandas&logoColor=150458"/>
+  <img src="https://img.shields.io/badge/NumPy-F1F0EB?style=for-the-badge&logo=numpy&logoColor=013243"/>
+</div>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+## Featured Projects
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 💊 Pharmaceutical Sales Analytics Dashboard
+### Pharmaceutical Sales Analytics Dashboard
 
 Interactive Sales Analytics Dashboard built using **Python, SQL, Excel and Power BI**.
 
-### Key Features
+**Key features**
 
 - Sales Performance Analysis
 - Profit Analysis
@@ -94,29 +70,16 @@ Interactive Sales Analytics Dashboard built using **Python, SQL, Excel and Power
 - Live Filters
 - Business Reporting
 
----
+<br>
 
+## Contact
 
----
+**Email** — [abhishekthakur20021029@gmail.com](mailto:abhishekthakur20021029@gmail.com)
 
-# 📫 Contact
-
-📧 **Email**
-
-abhishekthakur20021029@gmail.com
+**LinkedIn** — [linkedin.com/in/abhishek-thakurofficial](https://www.linkedin.com/in/abhishek-thakurofficial)
 
 <br>
 
-🔗 **LinkedIn**
-
-https://www.linkedin.com/in/abhishek-thakurofficial
-
----
-
 <div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-*"Without data, you're just another person with an opinion."*
-
+  <img src="footer.svg" width="100%" alt="Without data, you're just another person with an opinion. Thanks for visiting my profile."/>
 </div>
